@@ -1,0 +1,35 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"1": "block/warped_fungus"
+	},
+	"elements": [
+		{
+			"name": "Stem",
+			"from": [7, 0, 7],
+			"to": [9, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 5], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 5], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 5], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 5], "texture": "#1"},
+				"down": {"uv": [4, 0, 6, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Cap1",
+			"from": [4, 5, 4],
+			"to": [12, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 8, 8, 12], "texture": "#1"},
+				"east": {"uv": [0, 8, 8, 12], "texture": "#1"},
+				"south": {"uv": [0, 8, 8, 12], "texture": "#1"},
+				"west": {"uv": [0, 8, 8, 12], "texture": "#1"},
+				"up": {"uv": [8, 0, 16, 8], "texture": "#1"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

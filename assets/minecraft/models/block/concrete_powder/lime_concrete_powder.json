@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/concrete_powder/lime_concrete_powder"
+  }
+}
