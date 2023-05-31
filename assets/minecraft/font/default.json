@@ -1,6 +1,19 @@
 {
     "providers": [
-	
+	    {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/brewing_guide_left.png",
+            "ascent": 13,
+            "height": 166,
+            "chars": ["\uEff1"]
+          },
+          {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/brewing_guide_right.png",
+            "ascent": 27,
+            "height": 193,
+            "chars": ["\uEff2"]
+          },
 	{ "type": "bitmap",
             "file": "minecraft:font/frostmaw.png",
             "ascent": 13, "height": 52,

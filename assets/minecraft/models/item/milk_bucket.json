@@ -1,0 +1,6 @@
+{
+    "parent": "item/bucket",
+
+    "textures": {
+		"liquid": "item/white"
+    }}

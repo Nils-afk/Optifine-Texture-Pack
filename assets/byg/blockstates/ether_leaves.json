@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "byg:block/normal_ether_leaves","weight": 50 },
+	  { "model": "byg:block/low_ether_leaves","weight": 50 }
+    ]
+  }
+}

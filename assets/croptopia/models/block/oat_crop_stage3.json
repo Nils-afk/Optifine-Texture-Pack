@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_crop",
+  "textures": {
+    "crop": "croptopia:block/oat_crop_stage3"
+  }
+}

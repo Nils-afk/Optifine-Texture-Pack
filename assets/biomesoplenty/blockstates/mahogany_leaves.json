@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "biomesoplenty:block/normal_mahogany_leaves","weight": 50 },
+	  { "model": "biomesoplenty:block/low_mahogany_leaves","weight": 50 }
+    ]
+  }
+}

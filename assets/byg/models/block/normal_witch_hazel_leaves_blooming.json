@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "byg:block/witch_hazel_leaves_blooming",
+	 "fall" : "byg:block/normal_witch_hazel_leaves_bottom_blooming"
+  }
+}	
+  

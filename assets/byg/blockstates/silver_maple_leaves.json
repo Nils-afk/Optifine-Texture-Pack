@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "byg:block/normal_silver_maple_leaves","weight": 50 },
+	  { "model": "byg:block/low_silver_maple_leaves","weight": 50 }
+    ]
+  }
+}

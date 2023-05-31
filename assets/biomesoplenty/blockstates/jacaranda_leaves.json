@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "biomesoplenty:block/normal_jacaranda_leaves","weight": 50 },
+	  { "model": "biomesoplenty:block/low_jacaranda_leaves","weight": 50 }
+    ]
+  }
+}

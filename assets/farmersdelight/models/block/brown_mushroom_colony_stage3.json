@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_cross",
+  "textures": {
+    "cross": "farmersdelight:block/brown_mushroom_colony_stage3"
+  }
+}

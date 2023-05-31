@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "hanging=false,waterlogged=true": {
+      "model": "minecraft:block/lantern"
+    },
+    "hanging=true,waterlogged=true": {
+      "model": "minecraft:block/lantern_hanging"
+    },
+    "hanging=false,waterlogged=false": {
+      "model": "minecraft:block/lantern"
+    },
+    "hanging=true,waterlogged=false": {
+      "model": "minecraft:block/lantern_hanging"
+    }
+  }
+}

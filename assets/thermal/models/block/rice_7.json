@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_cross",
+  "textures": {
+    "cross": "thermal:block/crops/rice_7"
+  }
+}

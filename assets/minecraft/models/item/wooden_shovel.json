@@ -1,0 +1,29 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_shovel_0"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.25
+            },
+            "model": "item/wooden_shovel/wooden_shovel_1"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.5
+            },
+            "model": "item/wooden_shovel/wooden_shovel_2"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.75
+            },
+            "model": "item/wooden_shovel/wooden_shovel_3"
+        }
+    ]
+}
