@@ -2,4 +2,4 @@
 An open source Optifine-Texture-Pack
 
 # Do not use item at your own its Copyright by me and other plugins.
-You can buy the payed version with more cool fetures here: htttps://
+You can buy the payed version with more cool fetures here: https://www.patreon.com/optifine/membership
