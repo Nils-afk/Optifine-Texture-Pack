@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "minecraft:block/normal_jungle_leaves","weight": 50 },
-	  { "model": "minecraft:block/low_jungle_leaves","weight": 50 }
-    ]
-  }
-}

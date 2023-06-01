@@ -1,8 +1,0 @@
-{
-  "parent": "quark:block/hedge_post",
-  "textures": {
-    "log": "quark:block/blossom_log",
-    "leaf": "quark:block/orange_blossom_leaves",
-	"leaf_bottom": "quark:block/hedge_orange_blossom_leaves_bottom"
-  }
-}

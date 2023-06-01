@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-	 "block": "block/birch_leaves",
-	 "fall" : "block/low_birch_leaves_bottom"
-  }
-}	
-  

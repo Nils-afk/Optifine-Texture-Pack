@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_leaves",
-  "textures": {
-	 "block": "byg:block/ebony/leaves",
-	 "fall" : "byg:block/ebony/normal_leaves_bottom"
-  }
-}	
-  

@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "quark:block/normal_pink_blossom_leaves","weight": 50 },
-	  { "model": "quark:block/low_pink_blossom_leaves","weight": 50 }
-    ]
-  }
-}

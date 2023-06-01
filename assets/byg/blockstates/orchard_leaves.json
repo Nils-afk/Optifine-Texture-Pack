@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "byg:block/normal_orchard_leaves","weight": 50 },
-	  { "model": "byg:block/low_orchard_leaves","weight": 50 }
-    ]
-  }
-}

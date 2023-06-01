@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "minecraft:block/normal_dark_oak_leaves","weight": 50 },
-	  { "model": "minecraft:block/low_dark_oak_leaves","weight": 50 }
-    ]
-  }
-}

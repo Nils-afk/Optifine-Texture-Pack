@@ -1,6 +1,0 @@
-{
-  "parent": "croptopia:block/crop_cross_aged",
-  "textures": {
-    "cross": "croptopia:block/broccoli_crop_stage3"
-  }
-}

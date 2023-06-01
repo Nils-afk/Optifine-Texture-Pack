@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_leaves",
-  "textures": {
-	 "block": "biomesoplenty:block/mahogany_leaves",
-	 "fall": "biomesoplenty:block/normal_mahogany_leaves_bottom"
-  }
-}	
-  

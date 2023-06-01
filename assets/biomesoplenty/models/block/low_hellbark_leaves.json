@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_leaves",
-  "textures": {
-	 "block": "biomesoplenty:block/hellbark_leaves",
-	 "fall": "biomesoplenty:block/low_hellbark_leaves_bottom"
-  }
-}	
-  

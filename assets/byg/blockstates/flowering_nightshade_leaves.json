@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "byg:block/normal_flowering_nightshade_leaves","weight": 50 },
-	  { "model": "byg:block/low_flowering_nightshade_leaves","weight": 50 }
-    ]
-  }
-}
