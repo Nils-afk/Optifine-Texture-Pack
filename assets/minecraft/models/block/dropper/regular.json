@@ -1,0 +1,87 @@
+{
+    "credit": "Based on a model by Beatso",
+    "parent": "block/block",
+    "textures": {
+        "side": "block/dropper/side",
+        "top": "block/dropper/top_arrow",
+        "front": "block/dropper/front",
+		"back": "block/dropper/back_indicator",
+        "particle": "block/dropper/back"
+    },
+    "elements": [
+        {
+            "from": [
+                0, 
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "uv": [
+                        16,
+                        16,
+                        0,
+                        0
+                    ],
+                    "texture": "#top",
+                    "cullface": "down"
+                },
+                "up": {
+                    "uv": [
+                        16,
+                        0,
+                        0,
+                        16
+                    ],
+                    "texture": "#top",
+                    "cullface": "up"
+                },
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#front",
+                    "cullface": "north"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#back",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "west"
+                },
+                "east": {
+                    "uv": [
+                        16,
+                        0,
+                        0,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "east"
+                }
+            }
+        }
+    ]
+}

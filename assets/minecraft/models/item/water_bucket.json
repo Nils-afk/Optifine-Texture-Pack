@@ -1,0 +1,6 @@
+{
+    "parent": "item/bucket_util",
+    "textures": {
+        "layer0": "item/water_bucket"
+    }
+}

@@ -1,0 +1,46 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"2": "block/sapling/oak_sapling",
+		"particle": "block/sapling/oak_sapling"
+	},
+	"elements": [
+		{
+			"name": "NS",
+			"from": [1, 0, 7],
+			"to": [16, 15, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 1, 16, 16], "texture": "#2"},
+				"south": {"uv": [1, 1, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "EW",
+			"from": [7, 0, 1],
+			"to": [10, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [1, 1, 16, 16], "texture": "#2"},
+				"west": {"uv": [1, 1, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [7, 9, 7],
+			"to": [10, 9, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [7, 7, 10, 10], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Sapling",
+			"origin": [8, 8, 11],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

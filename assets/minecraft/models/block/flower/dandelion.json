@@ -1,0 +1,77 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"1": "block/flower/dandelion",
+		"particle": "block/flower/dandelion"
+	},
+	"elements": [
+		{
+			"name": "Stem_EW",
+			"from": [8, 0, 4],
+			"to": [8, 5, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [4, 11, 12, 16], "texture": "#1"},
+				"west": {"uv": [4, 11, 12, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem_NS",
+			"from": [4, 0, 8],
+			"to": [12, 5, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 11, 12, 16], "texture": "#1"},
+				"south": {"uv": [4, 11, 12, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalN",
+			"from": [6, 5, 8],
+			"to": [10, 5, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 5, 8]},
+			"faces": {
+				"up": {"uv": [6, 10, 10, 7], "texture": "#1"},
+				"down": {"uv": [6, 7, 10, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalS",
+			"from": [6, 5, 5],
+			"to": [10, 5, 8],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 5, 8]},
+			"faces": {
+				"up": {"uv": [10, 7, 6, 10], "texture": "#1"},
+				"down": {"uv": [10, 10, 6, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalW",
+			"from": [8, 5, 6],
+			"to": [11, 5, 10],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 5, 8]},
+			"faces": {
+				"up": {"uv": [6, 7, 10, 10], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [10, 7, 6, 10], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalE",
+			"from": [5, 5, 6],
+			"to": [8, 5, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 5, 8]},
+			"faces": {
+				"up": {"uv": [6, 7, 10, 10], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [10, 7, 6, 10], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Flower",
+			"origin": [8, 8, 11],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

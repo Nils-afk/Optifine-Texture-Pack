@@ -1,0 +1,17 @@
+{  
+    "models": [
+	    {
+		    "part": "head",
+			"id": "health_bar",
+			"model": "bat_health_bar.jpm",
+			"translate": [0, -22, 0],
+			"scale": "2.5",
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.ry": "player_rot_y - rot_y"
+		        }
+		    ]
+		}
+	]
+}

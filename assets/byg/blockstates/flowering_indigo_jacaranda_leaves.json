@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "byg:block/normal_flowering_indigo_jacaranda_leaves","weight": 50 },
+	  { "model": "byg:block/low_flowering_indigo_jacaranda_leaves","weight": 50 }
+    ]
+  }
+}

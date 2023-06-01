@@ -1,0 +1,6 @@
+{
+    "parent": "block/note_block/note_powered_parent",
+    "textures": {
+        "note": "block/note_block/powered/9"
+    }
+}

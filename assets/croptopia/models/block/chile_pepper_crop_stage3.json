@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_crop",
+  "textures": {
+    "crop": "croptopia:block/chile_pepper_crop_stage3"
+  }
+}

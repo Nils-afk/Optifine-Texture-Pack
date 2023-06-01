@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "minecraft:block/tall_seagrass_bottom"
+    },
+    "half=upper": [ {
+      "model": "minecraft:block/tall_seagrass_top",
+	  "model": "minecraft:block/tall_seagrass_top_alt"
+    } ]
+  }
+}

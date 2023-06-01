@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flower/wither_rose" },
+            { "model": "block/flower/wither_rose", "y": 90 },
+            { "model": "block/flower/wither_rose", "y": 180 },
+            { "model": "block/flower/wither_rose", "y": 270 }
+        ]
+    }
+}

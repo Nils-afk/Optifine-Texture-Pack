@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "biomesoplenty:block/maple_leaves",
+	 "fall": "biomesoplenty:block/normal_maple_leaves_bottom"
+  }
+}	
+  

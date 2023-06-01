@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "minecraft:block/normal_flowering_azalea_leaves","weight": 50 },
+	  { "model": "minecraft:block/low_flowering_azalea_leaves","weight": 50 }
+    ]
+  }
+}

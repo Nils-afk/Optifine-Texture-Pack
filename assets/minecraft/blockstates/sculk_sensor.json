@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "sculk_sensor_phase=cooldown": {
+      "model": "minecraft:block/sculk_sensor/0"
+    },
+    "sculk_sensor_phase=inactive": {
+      "model": "minecraft:block/sculk_sensor/0"
+    },
+    "sculk_sensor_phase=active,power=0": {
+      "model": "minecraft:block/sculk_sensor/0"
+    },
+    "sculk_sensor_phase=active,power=1": {
+      "model": "minecraft:block/sculk_sensor/1"
+    },
+    "sculk_sensor_phase=active,power=2": {
+      "model": "minecraft:block/sculk_sensor/2"
+    },
+    "sculk_sensor_phase=active,power=3": {
+      "model": "minecraft:block/sculk_sensor/3"
+    },
+    "sculk_sensor_phase=active,power=4": {
+      "model": "minecraft:block/sculk_sensor/4"
+    },
+    "sculk_sensor_phase=active,power=5": {
+      "model": "minecraft:block/sculk_sensor/5"
+    },
+    "sculk_sensor_phase=active,power=6": {
+      "model": "minecraft:block/sculk_sensor/6"
+    },
+    "sculk_sensor_phase=active,power=7": {
+      "model": "minecraft:block/sculk_sensor/7"
+    },
+    "sculk_sensor_phase=active,power=8": {
+      "model": "minecraft:block/sculk_sensor/8"
+    },
+    "sculk_sensor_phase=active,power=9": {
+      "model": "minecraft:block/sculk_sensor/9"
+    },
+    "sculk_sensor_phase=active,power=10": {
+      "model": "minecraft:block/sculk_sensor/10"
+    },
+    "sculk_sensor_phase=active,power=11": {
+      "model": "minecraft:block/sculk_sensor/11"
+    },
+    "sculk_sensor_phase=active,power=12": {
+      "model": "minecraft:block/sculk_sensor/12"
+    },
+    "sculk_sensor_phase=active,power=13": {
+      "model": "minecraft:block/sculk_sensor/13"
+    },
+    "sculk_sensor_phase=active,power=14": {
+      "model": "minecraft:block/sculk_sensor/14"
+    },
+    "sculk_sensor_phase=active,power=15": {
+      "model": "minecraft:block/sculk_sensor/15"
+    }
+  }
+}

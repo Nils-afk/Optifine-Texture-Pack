@@ -1,0 +1,46 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"2": "block/sapling/jungle_sapling",
+		"particle": "block/sapling/jungle_sapling"
+	},
+	"elements": [
+		{
+			"name": "NS",
+			"from": [0, 0, 7],
+			"to": [16, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "EW",
+			"from": [7, 0, 0],
+			"to": [9, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [7, 13, 7],
+			"to": [9, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [7, 2, 9, 4], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Sapling",
+			"origin": [8, 8, 11],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

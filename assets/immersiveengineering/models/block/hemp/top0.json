@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_crop",
+  "textures": {
+    "crop": "immersiveengineering:block/hemp/top0"
+  }
+}

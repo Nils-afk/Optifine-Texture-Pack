@@ -1,0 +1,6 @@
+{
+  "parent": "croptopia:block/crop_cross_aged",
+  "textures": {
+    "cross": "croptopia:block/lettuce_crop_stage3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "byg:block/normal_brown_birch_leaves","weight": 50 },
+	  { "model": "byg:block/low_brown_birch_leaves","weight": 50 }
+    ]
+  }
+}

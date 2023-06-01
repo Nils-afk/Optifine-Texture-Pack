@@ -1,0 +1,87 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"1": "block/flower/orange_tulip",
+		"particle": "block/flower/orange_tulip"
+	},
+	"elements": [
+		{
+			"name": "Stem_EW",
+			"from": [8, 0, 4.5],
+			"to": [8, 10, 11.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [4, 6, 11, 16], "texture": "#1"},
+				"west": {"uv": [4, 6, 11, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem_NS",
+			"from": [4.5, 0, 8],
+			"to": [11.5, 10, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 6, 11, 16], "texture": "#1"},
+				"south": {"uv": [4, 6, 11, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalN",
+			"from": [6.5, 10, 6.5],
+			"to": [9.5, 13, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 3, 9, 6], "texture": "#1"},
+				"south": {"uv": [6, 3, 9, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalS",
+			"from": [6.5, 10, 9.5],
+			"to": [9.5, 13, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 3, 9, 6], "texture": "#1"},
+				"south": {"uv": [6, 3, 9, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalW",
+			"from": [6.5, 10, 6.5],
+			"to": [6.5, 13, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [6, 3, 9, 6], "texture": "#1"},
+				"west": {"uv": [6, 3, 9, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalE",
+			"from": [9.5, 10, 6.5],
+			"to": [9.5, 13, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [6, 3, 9, 6], "texture": "#1"},
+				"west": {"uv": [6, 3, 9, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalB",
+			"from": [6.5, 10, 6.5],
+			"to": [9.5, 10, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 3, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 3, 3], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Flower",
+			"origin": [8, 8, 11],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}
