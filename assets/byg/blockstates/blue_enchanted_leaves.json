@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "byg:block/normal_blue_enchanted_leaves","weight": 50 },
-	  { "model": "byg:block/low_blue_enchanted_leaves","weight": 50 }
-    ]
-  }
-}

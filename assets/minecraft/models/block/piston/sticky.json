@@ -1,8 +1,0 @@
-{
-  "parent": "block/piston/template",
-  "textures": {
-    "bottom": "block/piston/bottom_sticky",
-    "side": "block/piston/side_sticky",
-    "platform": "block/piston/top_sticky"
-  }
-}

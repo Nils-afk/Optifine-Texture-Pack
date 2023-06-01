@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-	 "block": "block/flowering_azalea_leaves",
-	 "fall" : "block/normal_flowering_azalea_leaves_bottom"
-  }
-}	
-  

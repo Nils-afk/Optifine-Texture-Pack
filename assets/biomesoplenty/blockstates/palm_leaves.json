@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "biomesoplenty:block/normal_palm_leaves","weight": 50 },
-	  { "model": "biomesoplenty:block/low_palm_leaves","weight": 50 }
-    ]
-  }
-}

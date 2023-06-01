@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "minecraft:block/normal_acacia_leaves","weight": 50 },
-	  { "model": "minecraft:block/low_acacia_leaves","weight": 50 }
-    ]
-  }
-}

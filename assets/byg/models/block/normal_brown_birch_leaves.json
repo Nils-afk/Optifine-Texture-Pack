@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_leaves",
-  "textures": {
-	 "block": "byg:block/brown_birch_leaves",
-	 "fall" : "byg:block/normal_brown_birch_leaves_bottom"
-  }
-}	
-  

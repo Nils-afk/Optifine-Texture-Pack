@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "byg:block/normal_rainbow_eucalyptus_leaves","weight": 50 },
-	  { "model": "byg:block/low_rainbow_eucalyptus_leaves","weight": 50 }
-    ]
-  }
-}
