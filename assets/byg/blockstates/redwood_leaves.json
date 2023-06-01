@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "byg:block/normal_redwood_leaves","weight": 50 },
+	  { "model": "byg:block/low_redwood_leaves","weight": 50 }
+    ]
+  }
+}

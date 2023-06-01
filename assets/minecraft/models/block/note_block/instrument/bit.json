@@ -1,0 +1,6 @@
+{
+    "parent": "block/note_block/instrument_parent",
+    "textures": {
+        "instrument": "block/note_block/instrument/bit"
+    }
+}

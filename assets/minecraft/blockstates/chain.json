@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "axis=x,waterlogged=true": {
+      "model": "minecraft:block/chain_rust",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,waterlogged=true": {
+      "model": "minecraft:block/chain_rust"
+    },
+    "axis=z,waterlogged=true": {
+      "model": "minecraft:block/chain_rust",
+      "x": 90
+    },
+    "axis=x,waterlogged=false": {
+      "model": "minecraft:block/chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,waterlogged=false": {
+      "model": "minecraft:block/chain"
+    },
+    "axis=z,waterlogged=false": {
+      "model": "minecraft:block/chain",
+      "x": 90
+    }
+  }
+}

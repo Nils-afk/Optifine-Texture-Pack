@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/aged_crop",
+    "textures": {
+        "crop": "pamhc2crops:block/greengrape_stage_3"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:block/crop_cross_alert",
+  "textures": {
+    "cross": "farmersdelight:block/tomatoes_stage4"
+  }
+}

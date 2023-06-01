@@ -1,0 +1,86 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"1": "block/flower/oxeye_daisy",
+		"particle": "block/flower/oxeye_daisy"
+	},
+	"elements": [
+		{
+			"name": "Stem_EW",
+			"from": [8, 0, 4.5],
+			"to": [8, 7, 11.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [4, 9, 11, 16], "texture": "#1"},
+				"west": {"uv": [4, 9, 11, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem_NS",
+			"from": [4.5, 0, 8],
+			"to": [11.5, 7, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 9, 11, 16], "texture": "#1"},
+				"south": {"uv": [4, 9, 11, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalN",
+			"from": [5.5, 7, 8],
+			"to": [10.5, 7, 12],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 7, 8]},
+			"faces": {
+				"up": {"uv": [3, 4, 8, 0], "texture": "#1"},
+				"down": {"uv": [3, 0, 8, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalS",
+			"from": [5.55, 7, 4],
+			"to": [10.55, 7, 8],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 7, 8]},
+			"faces": {
+				"up": {"uv": [8, 0, 3, 4], "texture": "#1"},
+				"down": {"uv": [8, 4, 3, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalW",
+			"from": [8, 7, 5.5],
+			"to": [12, 7, 10.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 7, 8]},
+			"faces": {
+				"up": {"uv": [3, 0, 8, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [8, 0, 3, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalE",
+			"from": [4, 7, 5.5],
+			"to": [8, 7, 10.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 7, 8]},
+			"faces": {
+				"up": {"uv": [3, 0, 8, 4], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [8, 0, 3, 4], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalCenter",
+			"from": [6.5, 7.5, 6.5],
+			"to": [9.5, 7.5, 9.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 7, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Flower",
+			"origin": [8, 8, 11],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

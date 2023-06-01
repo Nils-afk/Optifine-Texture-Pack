@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "quark:block/normal_yellow_blossom_leaves","weight": 50 },
+	  { "model": "quark:block/low_yellow_blossom_leaves","weight": 50 }
+    ]
+  }
+}

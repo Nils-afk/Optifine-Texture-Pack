@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "biomesoplenty:block/normal_umbran_leaves","weight": 50 },
+	  { "model": "biomesoplenty:block/low_umbran_leaves","weight": 50 }
+    ]
+  }
+}

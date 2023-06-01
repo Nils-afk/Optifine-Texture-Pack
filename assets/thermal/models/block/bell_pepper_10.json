@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_cross",
+  "textures": {
+    "cross": "thermal:block/crops/bell_pepper_10"
+  }
+}

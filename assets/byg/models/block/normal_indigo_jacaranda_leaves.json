@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "byg:block/indigo_jacaranda_leaves",
+	 "fall" : "byg:block/normal_indigo_jacaranda_leaves_bottom"
+  }
+}	
+  
