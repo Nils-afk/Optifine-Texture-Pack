@@ -1,0 +1,77 @@
+{
+	"credit": "Made by NinthWorld with Blockbench",
+	"textures": {
+		"1": "block/flower/cornflower",
+		"particle": "block/flower/cornflower"
+	},
+	"elements": [
+		{
+			"name": "Stem_EW",
+			"from": [8, 0, 3.5],
+			"to": [8, 9, 12.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [4, 7, 13, 16], "texture": "#1"},
+				"west": {"uv": [4, 7, 13, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem_NS",
+			"from": [3.5, 0, 8],
+			"to": [12.5, 9, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 7, 13, 16], "texture": "#1"},
+				"south": {"uv": [4, 7, 13, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalN",
+			"from": [5.5, 9, 8],
+			"to": [10.5, 9, 12],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 9, 8]},
+			"faces": {
+				"up": {"uv": [6, 7, 11, 3], "texture": "#1"},
+				"down": {"uv": [6, 3, 11, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalS",
+			"from": [5.55, 9, 4],
+			"to": [10.55, 9, 8],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 9, 8]},
+			"faces": {
+				"up": {"uv": [11, 3, 6, 7], "texture": "#1"},
+				"down": {"uv": [11, 7, 6, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalW",
+			"from": [8, 9, 5.5],
+			"to": [12, 9, 10.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 9, 8]},
+			"faces": {
+				"up": {"uv": [6, 3, 11, 7], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [11, 3, 6, 7], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "PetalE",
+			"from": [4, 9, 5.5],
+			"to": [8, 9, 10.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 9, 8]},
+			"faces": {
+				"up": {"uv": [6, 3, 11, 7], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [11, 3, 6, 7], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Flower",
+			"origin": [8, 8, 11],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

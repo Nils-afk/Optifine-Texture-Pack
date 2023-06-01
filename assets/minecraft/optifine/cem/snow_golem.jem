@@ -1,0 +1,17 @@
+{
+    "models": [
+	    {
+		    "part": "body",
+			"id": "health_bar",
+			"model": "snow_golem_health_bar.jpm",
+			"translate": [0, -25, 0],
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.ry": "player_rot_y - rot_y + torad(180)",
+				   "health_bar.rx": "-player_rot_x"
+		        }
+		    ]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "byg:block/araucaria_leaves",
+	 "fall" : "byg:block/normal_araucaria_leaves_bottom"
+  }
+}	
+  

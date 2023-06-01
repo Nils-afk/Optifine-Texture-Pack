@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "biomesoplenty:block/normal_flowering_oak_leaves","weight": 50 },
+	  { "model": "biomesoplenty:block/low_flowering_oak_leaves","weight": 50 }
+    ]
+  }
+}

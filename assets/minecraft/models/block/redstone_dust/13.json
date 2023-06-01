@@ -1,0 +1,6 @@
+{
+    "parent": "block/redstone_dust/signal_strength_parent",
+    "textures": {
+        "power": "block/redstone_dust/13"
+    }
+}

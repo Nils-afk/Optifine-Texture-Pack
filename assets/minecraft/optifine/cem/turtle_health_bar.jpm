@@ -1,0 +1,22 @@
+{
+    "texture": "textures/entity/health_bar/health_bar.png",
+	"textureSize": [24, 5],
+	"credit": "Made by Spryzeen",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [0, 180, 0],
+			"boxes": [
+				{
+					"coordinates": [-11, -2, -0.5, 22, 4, 1],
+					"uvNorth": [23, 1, 1, 5],
+					"uvEast": [0, 1, 1, 5],
+					"uvSouth": [1, 1, 23, 5],
+					"uvWest": [23, 1, 24, 2],
+					"uvUp": [23, 2, 1, 1],
+					"uvDown": [23, 0, 1, 1]
+				}
+			]
+		}
+	]
+}

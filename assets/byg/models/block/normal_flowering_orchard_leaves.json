@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_overlay_leaves",
+  "textures": {
+	 "block": "byg:block/flowering_orchard_leaves",
+	 "fall" : "byg:block/normal_flowering_orchard_leaves_bottom",
+	 "block_o": "byg:block/flowering_orchard_leaves_overlay",
+	 "fall_o" : "byg:block/normal_flowering_orchard_leaves_bottom_overlay"
+  }
+}	
+  

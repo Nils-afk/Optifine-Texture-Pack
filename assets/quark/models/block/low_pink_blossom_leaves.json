@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "quark:block/pink_blossom_leaves",
+	 "fall": "quark:block/low_pink_blossom_leaves_bottom"
+  }
+}	
+  

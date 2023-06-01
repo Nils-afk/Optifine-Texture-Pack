@@ -1,0 +1,6 @@
+{
+    "parent": "item/totem_util",
+    "textures": {
+        "layer0": "item/totem_of_undying"
+    }
+}

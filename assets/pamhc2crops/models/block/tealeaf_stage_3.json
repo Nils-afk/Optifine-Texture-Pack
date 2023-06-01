@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/aged_crop",
+    "textures": {
+        "crop": "pamhc2crops:block/tealeaf_stage_3"
+    }
+}

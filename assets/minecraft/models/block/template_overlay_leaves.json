@@ -1,0 +1,53 @@
+{
+	"credit": "Made by Spryzeen",
+	"parent": "block/block",
+	"textures": {
+		"particle": "#block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#block_o", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#block_o", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#block_o", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#block_o", "cullface": "west", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block_o", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#block_o", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "up"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#block", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0.025, -16, 0.025],
+			"to": [15.975, 0, 15.975],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#fall", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#fall", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#fall", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#fall", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0.025, -16, 0.025],
+			"to": [15.975, 0, 15.975],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#fall_o", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#fall_o", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#fall_o", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#fall_o", "cullface": "west", "tintindex": 0}
+			}
+		}
+	]
+}

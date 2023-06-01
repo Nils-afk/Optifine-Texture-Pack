@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/aged_cross",
+  "textures": {
+    "cross": "byg:block/bush_blueberry_stage3"
+  }
+}

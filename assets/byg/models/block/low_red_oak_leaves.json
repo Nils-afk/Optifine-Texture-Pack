@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "byg:block/oak_leaves_red",
+	 "fall" : "byg:block/low_oak_leaves_red_bottom"
+  }
+}	
+  

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "biomesoplenty:block/normal_orange_autumn_leaves","weight": 50 },
+	  { "model": "biomesoplenty:block/low_orange_autumn_leaves","weight": 50 }
+    ]
+  }
+}

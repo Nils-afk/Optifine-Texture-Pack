@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "byg:block/normal_araucaria_leaves","weight": 50 },
+	  { "model": "byg:block/low_araucaria_leaves","weight": 50 }
+    ]
+  }
+}

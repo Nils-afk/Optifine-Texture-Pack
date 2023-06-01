@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+	 "block": "block/mangrove_leaves",
+	 "fall" : "block/normal_mangrove_leaves_bottom"
+  }
+}	
+  

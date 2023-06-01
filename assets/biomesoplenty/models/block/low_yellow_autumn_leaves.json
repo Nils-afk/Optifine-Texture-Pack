@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+	 "block": "biomesoplenty:block/yellow_autumn_leaves",
+	 "fall": "biomesoplenty:block/low_yellow_autumn_leaves_bottom"
+  }
+}	
+  

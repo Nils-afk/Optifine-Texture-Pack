@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	  { "model": "biomesoplenty:block/normal_fir_leaves","weight": 50 },
+	  { "model": "biomesoplenty:block/low_fir_leaves","weight": 50 }
+    ]
+  }
+}

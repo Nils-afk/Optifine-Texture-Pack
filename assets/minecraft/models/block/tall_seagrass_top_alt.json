@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_seagrass_alt",
+    "textures": {
+        "texture": "minecraft:block/tall_seagrass_top"
+    }
+}

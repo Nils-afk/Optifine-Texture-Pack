@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flower/poppy" },
+            { "model": "block/flower/poppy", "y": 90 },
+            { "model": "block/flower/poppy", "y": 180 },
+            { "model": "block/flower/poppy", "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{  
+    "models": [
+	    {
+		    "part": "head",
+			"id": "health_bar",
+			"model": "rabbit_health_bar.jpm",
+			"translate": [0, -16, 0],
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.ry": "player_rot_y - rot_y - head.ry",
+				   "health_bar.rx": "player_rot_x - rot_x + 2*head.rx",
+				   "health_bar.sx": "1.5 + if(is_child, 0.05, 0)",
+				   "health_bar.sy": "1.5 + if(is_child, 0.05, 0)",
+				   "health_bar.sz": "1.5 + if(is_child, 0.05, 0)"
+		        }
+		    ]
+		}
+	]
+}

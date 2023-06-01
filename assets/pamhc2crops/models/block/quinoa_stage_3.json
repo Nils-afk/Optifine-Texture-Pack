@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/aged_crop",
+    "textures": {
+        "crop": "pamhc2crops:block/quinoa_stage_3"
+    }
+}
