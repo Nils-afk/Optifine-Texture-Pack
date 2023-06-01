@@ -1,5 +1,0 @@
-{
-    "parent": "item/tropical_fish_bucket",
-    "textures": {
-      "0": "entity/fish/b11"
-    }}

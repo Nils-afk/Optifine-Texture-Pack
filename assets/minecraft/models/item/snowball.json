@@ -1,6 +1,0 @@
-{
-    "parent": "item/pearl_util",
-    "textures": {
-        "layer0": "item/snowball"
-    }
-}

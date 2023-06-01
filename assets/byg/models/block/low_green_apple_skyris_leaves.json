@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_leaves",
-  "textures": {
-	 "block": "byg:block/green_apple_skyris_leaves",
-	 "fall" : "byg:block/low_green_apple_skyris_leaves_bottom"
-  }
-}	
-  

@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": [
-	  { "model": "byg:block/normal_green_apple_skyris_leaves","weight": 50 },
-	  { "model": "byg:block/low_green_apple_skyris_leaves","weight": 50 }
-    ]
-  }
-}

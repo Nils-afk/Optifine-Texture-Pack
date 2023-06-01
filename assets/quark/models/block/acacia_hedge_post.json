@@ -1,8 +1,0 @@
-{
-  "parent": "quark:block/hedge_post",
-  "textures": {
-    "log": "minecraft:block/acacia_log",
-    "leaf": "minecraft:block/acacia_leaves",
-	"leaf_bottom": "quark:block/hedge_acacia_leaves_bottom"
-  }
-}
