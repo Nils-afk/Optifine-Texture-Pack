@@ -12,7 +12,8 @@ https://www.optifine.net/home<br />
 4. Drag it to your desktop
 5. Run .bat
 6. Press Install Optifine
-7. Enjoy Optifine
+7. Choose .minecraft
+8. Enjoy Optifine
 
    # Video Soon
 
