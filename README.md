@@ -16,12 +16,29 @@ https://www.optifine.net/home<br />
 8. Enjoy Optifine
 
    # Video
-<iframe
-  src="[https://www.youtube.com/embed/jNQXAC9IVRw](https://www.youtube.com/watch?v=yd1qOjoxAyo)"
-  width="560"
-  height="315"
-  frameborder="0"
-  allowfullscreen=""></iframe>
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://www.youtube.com/embed/yd1qOjoxAyo" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 
 
 # Install Texture Pack<br />
