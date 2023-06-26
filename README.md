@@ -15,8 +15,13 @@ https://www.optifine.net/home<br />
 7. Choose .minecraft
 8. Enjoy Optifine
 
-   # Video Soon
-
+   # Video
+<iframe
+  src="[https://www.youtube.com/embed/jNQXAC9IVRw](https://www.youtube.com/watch?v=yd1qOjoxAyo)"
+  width="560"
+  height="315"
+  frameborder="0"
+  allowfullscreen=""></iframe>
 
 
 # Install Texture Pack<br />
